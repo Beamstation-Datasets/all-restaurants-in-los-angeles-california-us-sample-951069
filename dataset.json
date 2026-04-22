@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Los Angeles, California with a population of over 3,898k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
   "config_name": "All Restaurants in Los Angeles, California, US",
-  "export_job_id": "4a02955d-069f-467b-a338-c5989a30f059",
+  "export_job_id": "663e6cc4-814f-4b24-a543-b992af42d2ff",
   "github_org": "Beamstation-Datasets",
   "id_short": 951069,
   "location_name": "Los Angeles",
   "location_type": "city",
   "repo_name": "all-restaurants-in-los-angeles-california-us-sample-951069",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/951069/beamstation_951069_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 7.68,
+  "sample_pct": 7.92,
   "sample_records": 1000,
-  "sample_sha256": "4d53de87c721471452a55272b69a3c437ac0a1816d555ba523473e86d9920f37",
-  "sample_size_bytes": 3096981,
-  "total_records": 13014,
-  "updated_at": "2026-04-15T01:02:36.053699+00:00"
+  "sample_sha256": "724ffd7b8890248b7f26d092bfe4a66b6475d321cb2979cf406a07e3de022a32",
+  "sample_size_bytes": 3203535,
+  "total_records": 12619,
+  "updated_at": "2026-04-22T05:33:54.928160+00:00"
 }
