@@ -9,9 +9,9 @@
 | Dataset ID | `951069` |
 | Location | Los Angeles |
 | Category | Restaurants |
-| Full dataset size | 13,014 records |
-| Free sample size | 1,000 records (7.68%) |
-| Last export | 2026-04-15T01:02:36.053699+00:00 |
+| Full dataset size | 12,619 records |
+| Free sample size | 1,000 records (7.92%) |
+| Last export | 2026-04-22T05:33:54.928160+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-los-angeles-california-us-sample-951069/releases/download/sample-latest/beamstation_951069_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
