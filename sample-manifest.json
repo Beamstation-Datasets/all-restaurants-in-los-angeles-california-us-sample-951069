@@ -1,12 +1,12 @@
 {
-  "export_job_id": "663e6cc4-814f-4b24-a543-b992af42d2ff",
+  "export_job_id": "d0a5b6d6-2a9b-4f71-a6a8-fafcab6194ba",
   "id_short": 951069,
-  "published_at": "2026-04-22T19:10:10Z",
+  "published_at": "2026-04-29T19:18:52Z",
   "repo_name": "all-restaurants-in-los-angeles-california-us-sample-951069",
   "sample_asset_name": "beamstation_951069_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/951069/beamstation_951069_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 1000,
-  "sample_sha256": "724ffd7b8890248b7f26d092bfe4a66b6475d321cb2979cf406a07e3de022a32",
-  "sample_size_bytes": 3203535,
-  "total_records": 12619
+  "sample_records": 639,
+  "sample_sha256": "dbee1c6fa6595fcda20869c49458bb52c26c8d6586c3149acf636b83f8eae86c",
+  "sample_size_bytes": 1961289,
+  "total_records": 6394
 }
